@@ -4,18 +4,23 @@
     "target_path": "kernel/samsung/sdm670"
   },
   {
-    "repository": "TheMuppets/proprietary_vendor_samsung",
-    "target_path": "vendor/samsung/",
-    "branch": "lineage-19.1"
+    "repository": "TheMuppets/proprietary_vendor_samsung_gts4lv-common",
+    "target_path": "vendor/samsung/gts4lv-common",
+    "branch": "lineage-20"
+  },
+  {
+    "repository": "TheMuppets/proprietary_vendor_samsung_gts4lvwifi",
+    "target_path": "vendor/samsung/gts4lvwifi",
+    "branch": "lineage-20"
+  },
+  {
+    "repository": "TheMuppets/proprietary_vendor_samsung_gts4lv",
+    "target_path": "vendor/samsung/gts4lv",
+    "branch": "lineage-20"
   },
   {
     "repository": "LineageOS/android_hardware_samsung",
     "target_path": "hardware/samsung",
-    "branch": "lineage-19.1"
-  },
-  {
-    "repository": "crdroidandroid/android_prebuilts_clang_host_linux-x86_clang-r416183b1",
-    "target_path": "prebuilts/clang/host/linux-x86/clang-r416183b1",
-    "branch": "11.0"
+    "branch": "lineage-20"
   }
 ]
